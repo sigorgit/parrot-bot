@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "skydapp-nodejs": "^0.0.15",
+        "skydapp-common": "^0.0.5",
+        "dotenv": "^10.0.0"
+    }
+}
